@@ -1,4 +1,5 @@
-/.idea
+/.idea/
 /www/images/*
+!/www/assets
 /www/assets/*
 /www/protected/runtime/*
