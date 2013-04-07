@@ -1,0 +1,4 @@
+/.idea
+/www/files/*
+/www/assets/*
+/www/protected/runtime/*
